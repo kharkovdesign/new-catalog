@@ -1,0 +1,12 @@
+title: BM Base
+syntax: Xml
+supportedLanguages: []
+properties:
+  - name: Kkk
+    type: Flag
+  - name: New
+    type: Flag
+    icon: arrow-up
+    style: green
+versions:
+  - "0.1"
