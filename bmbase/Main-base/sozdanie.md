@@ -1,8 +1,8 @@
 ---
 order: 2
-title: Создание задач в Bitrix
+title: Создание задач в Bitrix (off)
 properties:
-  - name: New
+  - name: В разработке
 ---
 
 ### **Авторизация**

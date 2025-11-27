@@ -1,12 +1,14 @@
 title: BM Base
-syntax: Xml
+syntax: XML
 supportedLanguages: []
 properties:
-  - name: Kkk
-    type: Flag
   - name: New
     type: Flag
     icon: arrow-up
     style: green
+  - name: В разработке
+    type: Flag
+    style: orange-red
+    icon: accessibility
 versions:
   - "0.1"
