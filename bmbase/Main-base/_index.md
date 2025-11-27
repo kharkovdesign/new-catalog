@@ -4,5 +4,3 @@ title: Bitrix
 ---
 
 <view defs="hierarchy=none" display="List"/>
-
-
